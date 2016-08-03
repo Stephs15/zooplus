@@ -24,6 +24,10 @@ html {
     		content: "|";
     		color: white;
     	}
+
+    	&:nth-last-child(2):after {
+    		content: "";
+    	}
     }
 
     a {
