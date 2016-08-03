@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/stephs15/zooplus.git"
+    "url": "git+ssh:/git@github.com:Stephs15/zooplus.git"
   },
   "keywords": [
     "zooplus"
@@ -16,9 +16,9 @@
   "author": "Marjorie Figueroa",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/stephs15/zooplus/issues"
+    "url": "https://github.com/stephs15/zooplus/issues"
   },
-  "homepage": "https://gitlab.com/stephs15/zooplus#README",
+  "homepage": "https://github.com/stephs15/zooplus#README",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
