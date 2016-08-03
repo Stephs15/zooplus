@@ -1,2 +1,2 @@
-# ZooPlusChallenge
-Zoo Plus Challenge
+# zooplus
+ZooPlus Challenge
