@@ -285,6 +285,10 @@ i {
 				float: right;
 				display: inline-block;
 			}
+
+			&:last-child:after {
+	    		content: "";
+	    	}
 		}
 	}
 
